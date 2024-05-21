@@ -1,5 +1,6 @@
 # Python_individual_task1
 ## Medium level
+### I chose medium level this time. I think this is my level for now and also fits in my time schedule.
     print('Hello user! Welcome to your deposit account!')
     balance = 0
     
